@@ -1,6 +1,15 @@
-# Web Security Awareness Demo - Camera Silent Capture
+# 🛡️ Project: Silent Camera Capture (Security Awareness Demo)
 
-Proyek ini adalah alat simulasi untuk **Security Awareness Training**. Tujuannya adalah mendemonstrasikan bahaya serangan *Social Engineering* dan *Silent Camera Capture* melalui website phishing yang menyerupai tampilan perbankan.
+![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)
+![Flask](https://img.shields.io/badge/Flask-Framework-lightgrey?style=for-the-badge&logo=flask)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Security](https://img.shields.io/badge/Security-Educational-red?style=for-the-badge)
+
+---
+
+## 📖 Overview
+Proyek ini adalah alat simulasi untuk **Security Awareness Training**. Tujuannya adalah mendemonstrasikan betapa mudahnya penjahat siber mencuri data privasi (dalam hal ini akses kamera) melalui teknik **Social Engineering** dan **Phishing**.
+
 
 > **⚠️ DISCLAIMER:**  Proyek ini dibuat murni untuk tujuan edukasi dan pelatihan keamanan siber. Penyalahgunaan alat ini untuk kegiatan ilegal di luar lingkungan lab/training adalah tanggung jawab pengguna sepenuhnya. 
 
@@ -47,5 +56,3 @@ Proyek ini adalah alat simulasi untuk **Security Awareness Training**. Tujuannya
    ```bash
    ssh -p 443 -R0:localhost:5000 a.pinggy.io
    ```
-   
-    
