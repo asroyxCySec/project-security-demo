@@ -10,6 +10,16 @@
 ## 📖 Overview
 Proyek ini adalah alat simulasi untuk **Security Awareness Training**. Tujuannya adalah mendemonstrasikan betapa mudahnya penjahat siber mencuri data privasi (dalam hal ini akses kamera) melalui teknik **Social Engineering** dan **Phishing**.
 
+---
+
+## 📺 Support the Channel
+[![AsroyxCySec YouTube Banner](https://img.shields.io/badge/Youtube-Subscribe%20AsroyxCySec-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AsroyxCySec)
+
+> **Mau belajar lebih dalam tentang Cyber Security?** > Jangan lupa mampir ke channel YouTube gue buat konten edukasi lainnya:  
+> 👉 **[AsroyxCySec YouTube Channel](https://www.youtube.com/@AsroyxCySec)**
+
+---
+
 
 > **⚠️ DISCLAIMER:**  Proyek ini dibuat murni untuk tujuan edukasi dan pelatihan keamanan siber. Penyalahgunaan alat ini untuk kegiatan ilegal di luar lingkungan lab/training adalah tanggung jawab pengguna sepenuhnya. 
 
