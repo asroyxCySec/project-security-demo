@@ -1,0 +1,4 @@
+env_security_demo/
+captured_faces/*.png
+__pycache__/
+*.pyc
