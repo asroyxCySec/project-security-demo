@@ -1,4 +1,4 @@
-# 🛡️ Project: Silent Camera Capture (Security Awareness Demo)
+# Project: Silent Camera Capture (Security Awareness Demo)
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)
 ![Flask](https://img.shields.io/badge/Flask-Framework-lightgrey?style=for-the-badge&logo=flask)
