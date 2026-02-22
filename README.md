@@ -20,7 +20,7 @@ Proyek ini adalah alat simulasi untuk **Security Awareness Training**. Tujuannya
 1. Clone repository ini:
    ```bash
    git clone https://github.com/asroyxCySec/project-security-demo.git
-   cd project-lo
+   cd project-security-demo
    ```
 
 2. Buat dan aktifkan Virtual Environment:
