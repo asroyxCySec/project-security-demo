@@ -15,7 +15,7 @@ Proyek ini adalah alat simulasi untuk **Security Awareness Training**. Tujuannya
 ## 📺 Support the Channel
 [![AsroyxCySec YouTube Banner](https://img.shields.io/badge/Youtube-Subscribe%20AsroyxCySec-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AsroyxCySec)
 
-> **Mau belajar lebih dalam tentang Cyber Security?** > Jangan lupa mampir ke channel YouTube gue buat konten edukasi lainnya:  
+> **Mau konten lebih dalam tentang Cyber Security?**  Support Kanal YouTube kita buat konten edukasi menarik lainnya:  
 > 👉 **[AsroyxCySec YouTube Channel](https://www.youtube.com/@AsroyxCySec)**
 
 ---
