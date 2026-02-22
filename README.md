@@ -19,7 +19,7 @@ Proyek ini adalah alat simulasi untuk **Security Awareness Training**. Tujuannya
 ### Langkah-langkah (Linux/Mac/Windows)
 1. Clone repository ini:
    ```bash
-   git clone [https://github.com/username-lo/project-lo.git](https://github.com/username-lo/project-lo.git)
+   git clone https://github.com/asroyxCySec/project-security-demo.git
    cd project-lo
    ```
 
