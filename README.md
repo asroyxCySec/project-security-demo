@@ -2,7 +2,7 @@
 
 Proyek ini adalah alat simulasi untuk **Security Awareness Training**. Tujuannya adalah mendemonstrasikan bahaya serangan *Social Engineering* dan *Silent Camera Capture* melalui website phishing yang menyerupai tampilan perbankan.
 
-> **⚠️ DISCLAIMER:** > Proyek ini dibuat murni untuk tujuan edukasi dan pelatihan keamanan siber. Penyalahgunaan alat ini untuk kegiatan ilegal di luar lingkungan lab/training adalah tanggung jawab pengguna sepenuhnya. 
+> **⚠️ DISCLAIMER:**  Proyek ini dibuat murni untuk tujuan edukasi dan pelatihan keamanan siber. Penyalahgunaan alat ini untuk kegiatan ilegal di luar lingkungan lab/training adalah tanggung jawab pengguna sepenuhnya. 
 
 ## Cara Kerja
 1. User mengunjungi website yang menyerupai halaman login bank.
